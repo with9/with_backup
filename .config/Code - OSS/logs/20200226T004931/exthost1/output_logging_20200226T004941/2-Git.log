@@ -1,0 +1,11 @@
+正在查找 Git: git
+将使用位于 git 的 Git 2.25.0
+> git rev-parse --show-toplevel
+fatal: 不是一个 git 仓库（或者直至挂载点 / 的任何父目录）
+停止在文件系统边界（未设置 GIT_DISCOVERY_ACROSS_FILESYSTEM）。
+> git rev-parse --show-toplevel
+fatal: 不是一个 git 仓库（或者直至挂载点 / 的任何父目录）
+停止在文件系统边界（未设置 GIT_DISCOVERY_ACROSS_FILESYSTEM）。
+> git rev-parse --show-toplevel
+fatal: 不是一个 git 仓库（或者直至挂载点 / 的任何父目录）
+停止在文件系统边界（未设置 GIT_DISCOVERY_ACROSS_FILESYSTEM）。

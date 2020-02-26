@@ -1,0 +1,190 @@
+[2020-02-22 19:56:55.655] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 19:57:00.869] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 19:59:34.917] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:08:22.653] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:08:35.302] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:09:25.824] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:10:24.171] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:11:11.833] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)
+[2020-02-22 20:12:05.860] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:48:01.154] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:48:14.648] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 20:48:18.034] [renderer1] [error] TreeError [MarkersView] Tree element not found: [object Object]: Error: TreeError [MarkersView] Tree element not found: [object Object]
+    at t.ObjectTreeModel.getElementLocation (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:135:14)
+    at t.ObjectTreeModel.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:134:122)
+    at H.isCollapsed (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1070:430)
+    at K.autoReveal (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6310:830)
+    at K.onActiveEditorChanged (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6307:1005)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:6306:862
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:113:203
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at e.doHandleActiveEditorChangeEvent (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:290)
+    at e.handleActiveEditorChange (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:88)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5779:400
+    at c.fire (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:116:845)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5937:990
+    at async e.openEditor (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5936:800)
+[2020-02-22 22:16:51.148] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)
+[2020-02-22 22:33:22.988] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)
+[2020-02-22 22:34:16.502] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)
+[2020-02-22 22:35:02.430] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)

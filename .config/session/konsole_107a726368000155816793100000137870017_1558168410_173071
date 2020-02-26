@@ -1,0 +1,31 @@
+[1]
+Active=1
+Sessions=1,2
+
+[Number]
+NumberOfSessions=2
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={55ef6917-6787-46f6-84e7-85fb5fa14794}
+WorkingDir[$e]=$HOME
+
+[Session2]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=FALLBACK/
+RemoteTab=(%u) %H
+SessionGuid={101c2072-82f3-48a3-906d-31646c307ab5}
+WorkingDir[$e]=/usr/share/icons
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1080=646
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAABF4AAAJoAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1118

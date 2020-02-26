@@ -1,0 +1,12 @@
+[2020-02-22 19:46:25.634] [sharedprocess] [info] main {"machineId":"035abca05a41e3cfdc9008e36ae35e26df5f5ccdc02c89ef4cc4fef29eec9f89","windowId":2}
+[2020-02-22 19:46:28.294] [sharedprocess] [info] Deleted from disk vscode-icons-team.vscode-icons /home/with9/.vscode-oss/extensions/vscode-icons-team.vscode-icons-9.7.0
+[2020-02-22 19:46:28.460] [sharedprocess] [info] Deleted from disk grapecity.gc-excelviewer /home/with9/.vscode-oss/extensions/grapecity.gc-excelviewer-2.1.32
+[2020-02-22 19:46:29.529] [sharedprocess] [info] Deleted from disk ms-python.python /home/with9/.vscode-oss/extensions/ms-python.python-2020.2.63072
+[2020-02-22 19:46:35.793] [sharedprocess] [info] Installing extension: ms-python.python
+[2020-02-22 19:46:41.956] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/0af7a457-e3a7-44f6-9fe7-895a38b4aaa6
+[2020-02-22 19:46:58.593] [sharedprocess] [info] Extracted extension to /home/with9/.vscode-oss/extensions/.ms-python.python-2020.2.64397: ms-python.python
+[2020-02-22 19:46:58.593] [sharedprocess] [info] Renamed to /home/with9/.vscode-oss/extensions/ms-python.python-2020.2.64397
+[2020-02-22 19:46:58.600] [sharedprocess] [info] Installation completed. ms-python.python
+[2020-02-22 19:46:58.805] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2020-02-22 19:47:05.649] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-02-22 19:47:05.651] [sharedprocess] [info] Skipping directory 646d4b6a631ab5adff820467cfcf5bae.zh-cn. Language pack still in use.

@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=dc198424601@outlook.com
+Enabled=true
+Parent=c9137e6133efb8f71ed19475dfbcc95673c6b01b
+
+[Mail Submission]
+SentFolder=folder://c9137e6133efb8f71ed19475dfbcc95673c6b01b/Sent
+TransportUid=26a52c2d06f7a0bcb1cef893ba3bd81ae242c35b
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://c9137e6133efb8f71ed19475dfbcc95673c6b01b/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=folder://local/Templates
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=dc198424601@outlook.com
+Aliases=
+Name=with
+Organization=
+ReplyTo=
+SignatureUid=none

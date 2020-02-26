@@ -1,0 +1,204 @@
+{
+	"setting": {
+		"version": "1.0.14",
+		"player": {
+			"togglePlayMethod": "listLoop",
+			"highQuality": false,
+			"isShowTaskProgess": true,
+			"volume": 1
+		},
+		"list": {
+			"isShowAlbumName": true,
+			"isShowSource": false,
+			"scroll": {
+				"enable": true,
+				"locations": {}
+			}
+		},
+		"download": {
+			"savePath": "/home/with9/Desktop",
+			"fileName": "歌名 - 歌手",
+			"maxDownloadNum": 3,
+			"isDownloadLrc": false,
+			"isEmbedPic": true
+		},
+		"leaderboard": {
+			"source": "kw",
+			"tabId": "kwbiaosb"
+		},
+		"songList": {
+			"source": "kg",
+			"sortId": "6",
+			"tagInfo": {
+				"name": "默认",
+				"id": null
+			}
+		},
+		"odc": {
+			"isAutoClearSearchInput": false,
+			"isAutoClearSearchList": false
+		},
+		"search": {
+			"searchSource": "wy",
+			"tempSearchSource": "kw"
+		},
+		"network": {
+			"proxy": {
+				"enable": false,
+				"host": "",
+				"port": "",
+				"username": "",
+				"password": ""
+			}
+		},
+		"windowSizeId": 1,
+		"themeId": 0,
+		"sourceId": "kw",
+		"apiSource": "temp",
+		"randomAnimate": true
+	},
+	"list": {
+		"defaultList": {
+			"id": "default",
+			"name": "试听列表",
+			"list": [
+				{
+					"singer": "アリレム",
+					"name": "幻灯花",
+					"albumName": "LiFESICK",
+					"albumId": "004cURba3vDdLj",
+					"source": "tx",
+					"interval": "06:08",
+					"songId": 105476880,
+					"albumMid": "004cURba3vDdLj",
+					"strMediaMid": "004gVLL50rhN29",
+					"songmid": "003bZGBI1y5pzH",
+					"img": "https://y.gtimg.cn/music/photo_new/T002R500x500M000004cURba3vDdLj.jpg",
+					"lrc": null,
+					"types": [
+						{
+							"type": "128k",
+							"size": "5.63 MB"
+						},
+						{
+							"type": "320k",
+							"size": "14.06 MB"
+						},
+						{
+							"type": "flac",
+							"size": "40.93 MB"
+						}
+					],
+					"_types": {
+						"128k": {
+							"size": "5.63 MB"
+						},
+						"320k": {
+							"size": "14.06 MB"
+						},
+						"flac": {
+							"size": "40.93 MB"
+						}
+					},
+					"typeUrl": {}
+				},
+				{
+					"singer": "要不要买菜",
+					"name": "下山",
+					"albumName": "下山",
+					"albumId": "000dUlqW3lbyob",
+					"source": "tx",
+					"interval": "02:53",
+					"songId": 245340206,
+					"albumMid": "000dUlqW3lbyob",
+					"strMediaMid": "004dmA9q3YPzz0",
+					"songmid": "001GAAVj1GjW8F",
+					"img": "https://y.gtimg.cn/music/photo_new/T002R500x500M000000dUlqW3lbyob.jpg",
+					"lrc": null,
+					"types": [
+						{
+							"type": "128k",
+							"size": "2.65 MB"
+						},
+						{
+							"type": "320k",
+							"size": "6.62 MB"
+						}
+					],
+					"_types": {
+						"128k": {
+							"size": "2.65 MB"
+						},
+						"320k": {
+							"size": "6.62 MB"
+						}
+					},
+					"typeUrl": {}
+				},
+				{
+					"name": "With",
+					"singer": "宋冬野",
+					"source": "kw",
+					"songmid": "4313452",
+					"albumId": "0",
+					"interval": "08:04",
+					"albumName": "",
+					"lyric": null,
+					"img": "http://img1.kuwo.cn/star/starheads/500/33/81/2322048672.jpg",
+					"types": [
+						{
+							"type": "128k",
+							"size": "1.84Mb"
+						}
+					],
+					"_types": {
+						"128k": {
+							"size": "1.84MB"
+						}
+					},
+					"typeUrl": {
+						"128k": "http://other.player.re01.sycdn.kuwo.cn/50b28278c5d8b51316bf17f2a85b04af/5e4fef6d/resource/n1/54/89/2576796233.mp3"
+					},
+					"lrc": "[ti:With]\n[ar:宋冬野]\n[al:]\n[by:]\n[offset:0]\n暂无歌词"
+				},
+				{
+					"singer": "魂音泉",
+					"name": "幻灯花",
+					"albumName": "魂音泉 空オーケストラ ～たまオケ～ ３",
+					"albumId": 35919077,
+					"source": "wy",
+					"interval": "06:03",
+					"songmid": 496902794,
+					"img": "http://p1.music.126.net/e2-GOSoonNqz3lcNYoKulQ==/18767563976523326.jpg",
+					"lrc": null,
+					"types": [
+						{
+							"type": "128k",
+							"size": "5.55 MB"
+						},
+						{
+							"type": "320k",
+							"size": "13.88 MB"
+						},
+						{
+							"type": "flac",
+							"size": null
+						}
+					],
+					"_types": {
+						"flac": {
+							"size": null
+						},
+						"320k": {
+							"size": "13.88 MB"
+						},
+						"128k": {
+							"size": "5.55 MB"
+						}
+					},
+					"typeUrl": {}
+				}
+			]
+		}
+	}
+}

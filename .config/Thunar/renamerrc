@@ -1,0 +1,16 @@
+[Configuration]
+LastActiveMode=THUNAR_RENAMER_MODE_SUFFIX
+LastActiveRenamer=TagRenamer
+
+[ThunarSbrNumberRenamer]
+TextMode=THUNAR_SBR_TEXT_MODE_NTO
+Text=.\ 
+Mode=THUNAR_SBR_NUMBER_MODE_010203
+Start=1
+
+[TagRenamer]
+Lowercase=FALSE
+ReplaceSpaces=FALSE
+Text=mp3
+Format=TAG_RENAMER_FORMAT_CUSTOM
+

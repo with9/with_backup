@@ -1,0 +1,8 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWidget
+MenuBar=Disabled
+ObjectName=MainWindow
+State=AAAA/wAAAAD9AAAAAAAAASwAAAJYAAAABAAAAAQAAAAIAAAACPwAAAAA

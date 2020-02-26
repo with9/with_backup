@@ -1,0 +1,21 @@
+{
+ "baidu_active_uid": 698173838,
+ "baidu_user_list": [
+  {
+   "uid": 698173838,
+   "name": "羽渊wenjie",
+   "sex": "♂",
+   "age": 6.5,
+   "bduss": "TU5WDQ1VklxSC1tVVU0blRZR1RIcElnfkpvck1VZ1F0Rmwwa0NlTG1pcnJDbkpjQUFBQUFBJCQAAAAAAAAAAAEAAACOSZ0p0~DUqHdlbmppZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOt9SlzrfUpcQ",
+   "ptoken": "5db4090d7d6a901a7962046125503c3e",
+   "stoken": "c0f557f881120d617aeb2827303771830fef111b8f5bae33428305fc74ffcb3d",
+   "workdir": "/apps/baidu_shurufa"
+  }
+ ],
+ "appid": 265486,
+ "cache_size": 30000,
+ "max_parallel": 100,
+ "user_agent": "",
+ "savedir": "/home/with9/~",
+ "enable_https": false
+}

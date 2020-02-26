@@ -1,0 +1,24 @@
+[2020-02-26 13:11:56.405] [exthost] [info] extension host started
+[2020-02-26 13:11:56.463] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"extensionId":{"value":"GrapeCity.gc-excelviewer","_lower":"grapecity.gc-excelviewer"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 13:11:56.464] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/grapecity.gc-excelviewer-2.1.33/dist/extension
+[2020-02-26 13:11:56.840] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 13:11:56.840] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/mechatroner.rainbow-csv-1.5.0/extension
+[2020-02-26 13:11:56.990] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-26 13:11:56.990] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-26 13:11:57.057] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-26 13:11:57.057] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-26 13:11:57.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-26 13:11:57.162] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-26 13:11:57.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-26 13:11:57.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-26 13:11:57.513] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-26 13:11:57.513] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-02-26 13:11:57.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-26 13:11:57.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-02-26 13:11:57.616] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-02-26 13:11:57.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-02-26 13:11:57.869] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-02-26 13:11:57.869] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2020-02-26 13:11:57.921] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-02-26 13:11:57.921] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-02-26 13:11:58.073] [exthost] [info] eager extensions activated

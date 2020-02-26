@@ -1,0 +1,98 @@
+[2020-02-26 17:32:57.359] [exthost] [info] extension host started
+[2020-02-26 17:32:57.379] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"extensionId":{"value":"GrapeCity.gc-excelviewer","_lower":"grapecity.gc-excelviewer"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 17:32:57.380] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/grapecity.gc-excelviewer-2.1.33/dist/extension
+[2020-02-26 17:32:57.739] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 17:32:57.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/mechatroner.rainbow-csv-1.5.0/extension
+[2020-02-26 17:32:57.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-26 17:32:57.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-26 17:32:57.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-26 17:32:57.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-26 17:32:57.920] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-26 17:32:57.920] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-26 17:32:58.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-26 17:32:58.093] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-26 17:32:58.140] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-26 17:32:58.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-02-26 17:32:58.171] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-26 17:32:58.171] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-02-26 17:32:58.260] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-02-26 17:32:58.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-02-26 17:32:58.440] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-02-26 17:32:58.442] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2020-02-26 17:32:58.491] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-02-26 17:32:58.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-02-26 17:32:58.602] [exthost] [info] eager extensions activated
+[2020-02-26 17:34:56.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.python {"startup":false,"extensionId":{"value":"vscode.python","_lower":"vscode.python"},"activationEvent":"onLanguage:python"}
+[2020-02-26 17:34:56.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/python/dist/pythonMain
+[2020-02-26 17:34:56.255] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"onLanguage:python"}
+[2020-02-26 17:34:56.255] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/ms-python.python-2020.2.64397/out/client/extension
+[2020-02-26 17:35:20.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-26 17:35:20.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-02-26 17:35:20.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-26 17:35:20.662] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-02-26 17:35:20.910] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-26 17:35:20.911] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-02-26 17:35:28.580] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onDebug"}
+[2020-02-26 17:35:28.580] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/ms-vscode.cpptools-0.26.3/dist/main
+[2020-02-26 17:35:28.967] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready {"startup":false,"extensionId":{"value":"vscode.debug-server-ready","_lower":"vscode.debug-server-ready"},"activationEvent":"onDebugResolve"}
+[2020-02-26 17:35:28.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-server-ready/dist/extension
+[2020-02-26 17:37:35.832] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug2 {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-02-26 17:37:35.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.node-debug2/out/src/extension
+[2020-02-26 17:37:35.891] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.node-debug {"startup":false,"extensionId":{"value":"ms-vscode.node-debug","_lower":"ms-vscode.node-debug"},"activationEvent":"onDebugInitialConfigurations"}
+[2020-02-26 17:37:35.892] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.node-debug/dist/extension.js
+[2020-02-26 17:41:45.478] [exthost] [info] ExtensionService#_doActivateExtension DotJoshJohnson.xml {"startup":false,"extensionId":{"value":"DotJoshJohnson.xml","_lower":"dotjoshjohnson.xml"},"activationEvent":"onLanguage:xml"}
+[2020-02-26 17:41:45.479] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/dotjoshjohnson.xml-2.5.0/out/extension
+[2020-02-26 17:41:56.419] [exthost] [info] ExtensionService#_doActivateExtension seanwu.vscode-qt-for-python {"startup":false,"extensionId":{"value":"seanwu.vscode-qt-for-python","_lower":"seanwu.vscode-qt-for-python"},"activationEvent":"onCommand:qtForPython.editForm"}
+[2020-02-26 17:41:56.420] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/seanwu.vscode-qt-for-python-0.4.2/out/extension
+[2020-02-26 17:45:16.342] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-02-26 17:45:16.343] [exthost] [error] Error: Invalid arguments
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:561)
+	at g (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:96437)
+	at /usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97707
+	at C (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97957)
+[2020-02-26 17:45:17.598] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-02-26 17:45:17.598] [exthost] [error] Error: Invalid arguments
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:561)
+	at g (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:96437)
+	at /usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97707
+	at C (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97957)
+[2020-02-26 17:45:18.544] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-02-26 17:45:18.544] [exthost] [error] Error: Invalid arguments
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:561)
+	at g (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:96437)
+	at /usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97707
+	at C (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97957)
+[2020-02-26 17:45:19.109] [exthost] [error] [vscode.json-language-features] provider FAILED
+[2020-02-26 17:45:19.109] [exthost] [error] Error: Invalid arguments
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:372:70)
+	at new g (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:369:561)
+	at g (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:96437)
+	at /usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97707
+	at C (/usr/lib/code/extensions/json-language-features/client/dist/jsonMain.js:9:97957)
+[2020-02-26 18:57:26.108] [exthost] [info] extension host started
+[2020-02-26 18:57:26.119] [exthost] [info] ExtensionService#_doActivateExtension GrapeCity.gc-excelviewer {"startup":false,"extensionId":{"value":"GrapeCity.gc-excelviewer","_lower":"grapecity.gc-excelviewer"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 18:57:26.119] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/grapecity.gc-excelviewer-2.1.33/dist/extension
+[2020-02-26 18:57:26.265] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-02-26 18:57:26.265] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/mechatroner.rainbow-csv-1.5.0/extension
+[2020-02-26 18:57:26.384] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-26 18:57:26.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-26 18:57:26.436] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-26 18:57:26.436] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-26 18:57:26.496] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-26 18:57:26.496] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-26 18:57:26.623] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-26 18:57:26.623] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-26 18:57:26.696] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-26 18:57:26.696] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/search-result/dist/extension.js
+[2020-02-26 18:57:26.752] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-26 18:57:26.752] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/vscode-account/dist/extension.js
+[2020-02-26 18:57:26.773] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-02-26 18:57:26.773] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-02-26 18:57:27.006] [exthost] [info] ExtensionService#_doActivateExtension ionutvmi.path-autocomplete {"startup":true,"extensionId":{"value":"ionutvmi.path-autocomplete","_lower":"ionutvmi.path-autocomplete"},"activationEvent":"*"}
+[2020-02-26 18:57:27.006] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/ionutvmi.path-autocomplete-1.13.3/out/src/extension
+[2020-02-26 18:57:27.129] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-02-26 18:57:27.134] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/with9/.vscode-oss/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-02-26 18:57:27.194] [exthost] [info] eager extensions activated

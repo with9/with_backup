@@ -1,0 +1,145 @@
+03:12:15 PM.737: CPU Name: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz
+03:12:15 PM.737: CPU Speed: 2147.519MHz
+03:12:15 PM.737: Physical Cores: 2, Logical Cores: 4
+03:12:15 PM.737: Physical Memory: 7875MB Total, 766MB Free
+03:12:15 PM.738: Kernel Version: Linux 5.4.1-arch1-1
+03:12:15 PM.738: Distribution: "Arch Linux" Unknown
+03:12:15 PM.738: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.6
+03:12:15 PM.740: Portable mode: false
+03:12:15 PM.886: OBS 24.0.6-1 (linux)
+03:12:15 PM.886: ---------------------------------
+03:12:15 PM.886: ---------------------------------
+03:12:15 PM.886: audio settings reset:
+03:12:15 PM.886: 	samples per sec: 44100
+03:12:15 PM.886: 	speakers:        2
+03:12:15 PM.893: ---------------------------------
+03:12:15 PM.893: Initializing OpenGL...
+03:12:15 PM.932: Loading up OpenGL on adapter Intel Open Source Technology Center Mesa DRI Intel(R) HD Graphics 5500 (Broadwell GT2) 
+03:12:15 PM.932: OpenGL loaded successfully, version 4.5 (Core Profile) Mesa 19.2.6, shading language 4.50
+03:12:15 PM.948: ---------------------------------
+03:12:15 PM.948: video settings reset:
+03:12:15 PM.948: 	base resolution:   1920x1080
+03:12:15 PM.948: 	output resolution: 1280x720
+03:12:15 PM.948: 	downscale filter:  Bilinear
+03:12:15 PM.948: 	fps:               30/1
+03:12:15 PM.948: 	format:            NV12
+03:12:15 PM.948: 	YUV mode:          601/Partial
+03:12:15 PM.948: NV12 texture support not available
+03:12:15 PM.949: Audio monitoring device:
+03:12:15 PM.949: 	name: 默认
+03:12:15 PM.949: 	id: default
+03:12:15 PM.949: ---------------------------------
+03:12:15 PM.951: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+03:12:16 PM.061: No blackmagic support
+03:12:16 PM.074: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: 无法打开共享对象文件: 没有那个文件或目录
+03:12:16 PM.074: 
+03:12:16 PM.074: FFMPEG VAAPI supported
+03:12:16 PM.082: os_dlopen(/usr//lib/obs-plugins/obs-x264.so->/usr//lib/obs-plugins/obs-x264.so): libx264.so.159: 无法打开共享对象文件: 没有那个文件或目录
+03:12:16 PM.082: 
+03:12:16 PM.082: Module '/usr//lib/obs-plugins/obs-x264.so' not loaded
+03:12:16 PM.088: VLC found, VLC video source enabled
+03:12:16 PM.088: ---------------------------------
+03:12:16 PM.088:   Loaded Modules:
+03:12:16 PM.088:     vlc-video.so
+03:12:16 PM.089:     text-freetype2.so
+03:12:16 PM.089:     rtmp-services.so
+03:12:16 PM.089:     obs-transitions.so
+03:12:16 PM.089:     obs-outputs.so
+03:12:16 PM.089:     obs-libfdk.so
+03:12:16 PM.089:     obs-filters.so
+03:12:16 PM.089:     obs-ffmpeg.so
+03:12:16 PM.089:     linux-v4l2.so
+03:12:16 PM.089:     linux-pulseaudio.so
+03:12:16 PM.089:     linux-jack.so
+03:12:16 PM.089:     linux-decklink.so
+03:12:16 PM.089:     linux-capture.so
+03:12:16 PM.089:     linux-alsa.so
+03:12:16 PM.089:     image-source.so
+03:12:16 PM.089:     frontend-tools.so
+03:12:16 PM.089:     decklink-ouput-ui.so
+03:12:16 PM.089: ---------------------------------
+03:12:16 PM.089: ==== Startup complete ===============================================
+03:12:16 PM.089: Encoder ID 'obs_x264' not found
+03:12:16 PM.089: Encoder ID 'obs_x264' not found
+03:12:16 PM.090: Service '' not found
+03:12:16 PM.092: All scene data cleared
+03:12:16 PM.092: ------------------------------------------------
+03:12:16 PM.099: pulse-input: Server name: 'pulseaudio 13.0-dirty'
+03:12:16 PM.099: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+03:12:16 PM.100: pulse-input: Started recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+03:12:16 PM.102: pulse-input: Server name: 'pulseaudio 13.0-dirty'
+03:12:16 PM.102: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+03:12:16 PM.103: pulse-input: Started recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+03:12:16 PM.108: xshm-input: Geometry 1920x1080 @ 0,0
+03:12:16 PM.110: Switched to scene '场景 2'
+03:12:16 PM.110: ------------------------------------------------
+03:12:16 PM.110: Loaded scenes:
+03:12:16 PM.110: - scene 'Scene 2':
+03:12:16 PM.110:     - source: '窗口捕获(Xcomposite) 2' (xcomposite_input)
+03:12:16 PM.110: - scene '场景 2':
+03:12:16 PM.110:     - source: '屏幕捕获(XSHM)' (xshm_input)
+03:12:16 PM.110: ------------------------------------------------
+03:12:16 PM.658: adding 69 milliseconds of audio buffering, total audio buffering is now 69 milliseconds (source: Mic/Aux)
+03:12:16 PM.658: 
+03:13:50 PM.280: ==== Shutting down ==================================================
+03:13:50 PM.283: Switched to scene '(null)'
+03:13:50 PM.284: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1b.0.analog-stereo.monitor'
+03:13:50 PM.284: pulse-input: Got 18053 packets with 4065226 frames
+03:13:50 PM.288: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1b.0.analog-stereo'
+03:13:50 PM.288: pulse-input: Got 9242 packets with 4153320 frames
+03:13:50 PM.289: All scene data cleared
+03:13:50 PM.290: ------------------------------------------------
+03:13:50 PM.355: Freeing OBS context data
+03:13:50 PM.372: [Scripting] Total detached callbacks: 0
+03:13:50 PM.389: == Profiler Results =============================
+03:13:50 PM.389: run_program_init: 819.508 ms
+03:13:50 PM.389:  ┣OBSApp::AppInit: 1.663 ms
+03:13:50 PM.389:  ┃ ┗OBSApp::InitLocale: 1.288 ms
+03:13:50 PM.389:  ┗OBSApp::OBSInit: 670.6 ms
+03:13:50 PM.389:    ┣obs_startup: 19.098 ms
+03:13:50 PM.389:    ┗OBSBasic::OBSInit: 504.819 ms
+03:13:50 PM.389:      ┣OBSBasic::InitBasicConfig: 0.089 ms
+03:13:50 PM.389:      ┣OBSBasic::ResetAudio: 0.164 ms
+03:13:50 PM.389:      ┣OBSBasic::ResetVideo: 62.526 ms
+03:13:50 PM.389:      ┣OBSBasic::InitOBSCallbacks: 0.011 ms
+03:13:50 PM.389:      ┣OBSBasic::InitHotkeys: 0.072 ms
+03:13:50 PM.389:      ┣obs_load_all_modules: 139.231 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(decklink-ouput-ui.so): 0.523 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(frontend-tools.so): 95.954 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(image-source.so): 0.003 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-alsa.so): 0.001 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-capture.so): 0.786 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-decklink.so): 0.144 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-jack.so): 0.001 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.002 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(linux-v4l2.so): 0.001 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(obs-ffmpeg.so): 0.394 ms
+03:13:50 PM.389:      ┃ ┃ ┗nvenc_check: 0.324 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(obs-filters.so): 0.01 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(obs-outputs.so): 0.01 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(obs-transitions.so): 0.006 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(rtmp-services.so): 0.532 ms
+03:13:50 PM.389:      ┃ ┣obs_init_module(text-freetype2.so): 0.007 ms
+03:13:50 PM.389:      ┃ ┗obs_init_module(vlc-video.so): 2.785 ms
+03:13:50 PM.390:      ┣OBSBasic::ResetOutputs: 0.396 ms
+03:13:50 PM.390:      ┣OBSBasic::CreateHotkeys: 0.245 ms
+03:13:50 PM.390:      ┣OBSBasic::InitService: 1.728 ms
+03:13:50 PM.390:      ┣OBSBasic::InitPrimitives: 0.164 ms
+03:13:50 PM.390:      ┗OBSBasic::Load: 20.084 ms
+03:13:50 PM.390: obs_hotkey_thread(25 ms): min=0.088 ms, median=0.82 ms, max=286.167 ms, 99th percentile=12.186 ms, 99.8005% below 25 ms
+03:13:50 PM.390: audio_thread(Audio): min=0.023 ms, median=0.364 ms, max=2.877 ms, 99th percentile=1.696 ms
+03:13:50 PM.390: obs_graphics_thread(33.3333 ms): min=0.054 ms, median=11.092 ms, max=306.026 ms, 99th percentile=29.694 ms, 99.3262% below 33.333 ms
+03:13:50 PM.390:  ┣tick_sources: min=0.001 ms, median=6.721 ms, max=290.766 ms, 99th percentile=16.915 ms
+03:13:50 PM.390:  ┣output_frame: min=0.046 ms, median=1.332 ms, max=7.744 ms, 99th percentile=3.042 ms
+03:13:50 PM.390:  ┃ ┗gs_context(video->graphics): min=0.046 ms, median=1.329 ms, max=7.741 ms, 99th percentile=3.04 ms
+03:13:50 PM.390:  ┃   ┣render_video: min=0.024 ms, median=1.048 ms, max=4.902 ms, 99th percentile=2.46 ms
+03:13:50 PM.390:  ┃   ┃ ┗render_main_texture: min=0.02 ms, median=1.026 ms, max=4.838 ms, 99th percentile=2.44 ms
+03:13:50 PM.390:  ┃   ┗gs_flush: min=0.001 ms, median=0.163 ms, max=5.401 ms, 99th percentile=0.744 ms
+03:13:50 PM.390:  ┗render_displays: min=0.004 ms, median=2.721 ms, max=28.896 ms, 99th percentile=13.714 ms
+03:13:50 PM.390: =================================================
+03:13:50 PM.390: == Profiler Time Between Calls ==================
+03:13:50 PM.390: obs_hotkey_thread(25 ms): min=25.176 ms, median=25.982 ms, max=311.259 ms, 23.4959% within ±2% of 25 ms (0% lower, 76.5041% higher)
+03:13:50 PM.390: obs_graphics_thread(33.3333 ms): min=19.727 ms, median=33.334 ms, max=306.054 ms, 98.2973% within ±2% of 33.333 ms (0.922313% lower, 0.780419% higher)
+03:13:50 PM.390: =================================================
+03:13:50 PM.442: Number of memory leaks: 0

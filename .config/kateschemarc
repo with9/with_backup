@@ -1,0 +1,13 @@
+[$Version]
+update_info=fonts_kate.upd:Plasma_Fonts_Kate
+
+[Normal]
+Font=WenQuanYi Micro Hei Mono,15,-1,5,50,0,0,0,0,0,Regular
+dummy=prevent-empty-group
+
+[Printing]
+dummy=prevent-empty-group
+
+[Solarized (light)]
+Font=Noto Sans,9,-1,5,50,0,0,0,0,0,Regular
+dummy=prevent-empty-group

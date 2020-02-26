@@ -1,0 +1,10 @@
+use-headerbar=true
+show-hidden-files=false
+show-sidebar=true
+close-after-select=false
+window-width=1910
+window-height=474
+window-x=5
+window-y=532
+exclude-paths=/dev;~/.cache;~/.gvfs;
+
