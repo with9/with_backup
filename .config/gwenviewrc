@@ -1,0 +1,30 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update
+
+[General]
+LastTargetDir[$e]=file:$HOME/Image/Wallpapers
+
+[KPropertiesDialog]
+Height 1080=445
+Width 1920=412
+
+[MainWindow]
+Height 1080=1016
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO5AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Videos/OBStemp/snake_BFS.gif
+File2[$e]=$HOME/Image/collect/2018-02-09 02-46-59屏幕截图.png
+File3[$e]=$HOME/Music/曲/风儿在动云儿在飞
+Name1[$e]=snake_BFS.gif
+Name2[$e]=2018-02-09 02-46-59屏幕截图.png
+Name3[$e]=风儿在动云儿在飞
+
+[SideBar]
+SideBarSplitterSizes=200,1714
+
+[ThumbnailView]
+LowResourceUsageMode=true

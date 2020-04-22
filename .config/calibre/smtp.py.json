@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "1418578427_2cfa34@kindle.cn": [
+      "AZW, MOBI, TPZ, PRC, AZW1", 
+      true, 
+      true
+    ]
+  }, 
+  "aliases": {}, 
+  "encryption": "TLS", 
+  "from_": "dc198424601@outlook.com", 
+  "relay_host": null, 
+  "relay_password": "", 
+  "relay_port": 25, 
+  "relay_username": null, 
+  "subjects": {}, 
+  "tags": {}
+}

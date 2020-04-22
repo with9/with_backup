@@ -1,0 +1,13 @@
+[/home/with9/.local/share/Trash]
+Days=10
+LimitReachedAction=0
+Percent=10
+UseSizeLimit=true
+UseTimeLimit=true
+
+[/home/with9/Wtemp/.Trash-1000]
+Days=7
+LimitReachedAction=0
+Percent=10
+UseSizeLimit=true
+UseTimeLimit=true

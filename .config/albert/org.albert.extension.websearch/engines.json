@@ -1,0 +1,14 @@
+[
+    {
+        "iconPath": "/home/with9/.config/albert/org.albert.extension.websearch/{3e7d9ca1-f2eb-4cd0-b585-ff43e178963a}.png",
+        "name": "Bing",
+        "trigger": "bing",
+        "url": "https://cn.bing.com/search?q=%s"
+    },
+    {
+        "iconPath": ":github",
+        "name": "GitHub",
+        "trigger": "gh ",
+        "url": "https://github.com/search?utf8=✓&q=%s"
+    }
+]

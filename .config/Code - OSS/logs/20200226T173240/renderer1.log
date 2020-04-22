@@ -1,0 +1,16 @@
+[2020-02-26 17:35:11.714] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-python.python' took 95% of 2504.834ms, saved PROFILE here: '/tmp/exthost-718660.cpuprofile' [{"id":"gc","total":57481,"percentage":2},{"id":"ms-python.python","total":2390448,"percentage":95},{"id":"program","total":22146,"percentage":1},{"id":"self","total":29858,"percentage":1}]
+[2020-02-26 17:37:32.303] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async R.terminate (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5551:511)
+[2020-02-26 17:38:05.759] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5559:991
+[2020-02-26 17:38:12.429] [renderer1] [error] timeout after 500 ms: Error: timeout after 500 ms
+    at t.RawDebugSession.handleErrorResponse (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:728)
+    at file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2892:159
+    at async t.RawDebugSession.shutdown (file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2890:248)
+    at async file:///usr/lib/code/out/vs/workbench/workbench.desktop.main.js:5559:991

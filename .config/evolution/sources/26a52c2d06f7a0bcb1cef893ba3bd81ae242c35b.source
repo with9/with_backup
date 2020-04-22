@@ -1,0 +1,19 @@
+[Data Source]
+DisplayName=dc198424601@outlook.com
+Enabled=true
+Parent=c9137e6133efb8f71ed19475dfbcc95673c6b01b
+
+[Authentication]
+Host=smtp.office365.com
+Method=LOGIN
+Port=587
+ProxyUid=system-proxy
+RememberPassword=true
+User=dc198424601@outlook.com
+CredentialName=
+
+[Security]
+Method=starttls-on-standard-port
+
+[Mail Transport]
+BackendName=smtp

@@ -1,0 +1,12 @@
+[1]
+Page=2
+Url=file:///home/with9/Music/曲/风儿在动云儿在飞
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Gwenview::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB34AAAPVAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
