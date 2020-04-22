@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<scripts version="1.0">
-  <script accelerator="&lt;Alt&gt;p" command="feh --bg-fill %F &amp;&amp; rm &quot;/home/with9/.wallpaper&quot; &amp;&amp; cp %F /home/with9/.wallpaper" display-name="set_i3_wallpaper" for-each-file="false" id="buFC5xsu" shell-script="true" wait-command="true"/>
-  <script accelerator="" command="gsettings set org.gnome.desktop.background picture-options &apos;wallpaper&apos;" display-name="设置壁纸条件为wallpaper" for-each-file="false" id="oJ047O2E" shell-script="true" wait-command="false"/>
-</scripts>

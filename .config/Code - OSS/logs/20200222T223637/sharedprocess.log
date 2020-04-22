@@ -1,4 +1,0 @@
-[2020-02-22 22:36:41.243] [sharedprocess] [info] main {"machineId":"035abca05a41e3cfdc9008e36ae35e26df5f5ccdc02c89ef4cc4fef29eec9f89","windowId":2}
-[2020-02-22 22:36:42.120] [sharedprocess] [info] Deleted from disk ms-python.python /home/with9/.vscode-oss/extensions/ms-python.python-2020.2.63990
-[2020-02-22 22:37:21.264] [sharedprocess] [info] Starting to clean up unused language packs.
-[2020-02-22 22:37:21.268] [sharedprocess] [info] Skipping directory 646d4b6a631ab5adff820467cfcf5bae.zh-cn. Language pack still in use.
